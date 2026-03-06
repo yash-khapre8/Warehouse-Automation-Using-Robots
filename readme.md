@@ -1,6 +1,6 @@
 # 📦 Warehouse Automation Using Robots – Analytics Dashboard
 
-## 📖 Project Overview
+## 📖 Project Overview - https://colab.research.google.com/drive/1TcgVT52Go-EoR5z-bqwcNbMvgKW9C0d2?usp=sharing
 
 This project analyzes the **business impact of implementing robotic warehouse automation** for SpeedLogistics Pvt. Ltd.
 
